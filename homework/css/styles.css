@@ -4,20 +4,20 @@ body {
 }
 
 header{
-    background-color: aqua;
+    background-color: rgb(210, 255, 255);
 }
 
 nav{
-    background-color: aqua;
+    background-color: rgb(175, 232, 232);
 }
 
 main{
-    background-color: burlywood;
+    background-color: rgb(221, 206, 187);
     font-size: 115%;
 }
 
 footer{
-    background-color: aqua;
+    background-color: rgb(197, 244, 244);
 }
 
 li{
